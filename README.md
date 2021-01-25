@@ -1,4 +1,4 @@
-# Scrap Data from site using Pupperteer
+# Scrap Data from site using Puppeteer
 
 ## To install the packages
 
